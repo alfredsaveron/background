@@ -3,4 +3,3 @@ This is a simple CSS page, a simple to use repository consisting of only basic a
 
 # 📝 Source
 - <a href="https://github.com/WebDevSHORTS"> WebDevSHORTS </a>
-- <a href="https://github.com/KaguwoNetwork"> Our Community </a>
